@@ -1,0 +1,10 @@
+DE LEEUW Valérian & COUASNET Robin
+Fourmi de Langton
+
+Principe :
+C'est une implémentation avec interface graphique en java, sur les fourmis de Langton.
+Il y a quelques ajouts (fourmis de couleur) qui sont détaillés dans le rapport.
+
+Aide :
+Les classes, l'héritage, les méthodes et les variables sont décrites dans la documentation générée avec doxygen. 
+Pour la consulter il faut allez dans /doc/ et ouvrir index.html avec votre navigateur internet.
